@@ -1,0 +1,5 @@
+liczba1  = int(input('Liczba 1 '))
+print('Liczba 1: ', liczba1)
+liczba2  = int(input('Podaj liczbę 2 '))
+print('Liczba 2: ', liczba2)
+print(liczba1+liczba2)
